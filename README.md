@@ -2,8 +2,6 @@
 
 За тези, които вече използват Git > git clone https://github.com/AleksandarVAnd/Mirror.git и стартирай initial.bat (само за Windows е за момента)
 
-За тези, които не са толкова на ти с технологиите : Моля натисни зеленият бутон Clone or download, в новият изкачащ прозорец натисни десния бутон Download ZIP. Навигирай там където е Mirror-master.zip
+За тези, които не са толкова на ти с технологиите : Моля натисни зеленият бутон Clone or download, в новият изкачащ прозорец натисни десния бутон Download ZIP. 
 
-Разархивирай (Extract All) и навигирай там, където е съдържанието на този проект - или е на същото място или в папка Mirror-master.
-
-Разархивирай (Extract All) ogledalo.zip. Накрая натисни два пъти върху programa.bat
+Навигирай там където е Mirror-master.zip Разархивирай (Extract All) и навигирай в папка Mirror-master. Разархивирай (Extract All) ogledalo.zip. Влез в папката ogledalo. Натисни два пъти върху programa.bat Програмата е на кирилица. Ако не виждаш изреченията на кирилица тогава ...
