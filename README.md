@@ -6,4 +6,4 @@
 
 За тези, които не са толкова на "ти" с програмирането : Моля натисни зеленият бутон Clone or download, в новият изкачащ прозорец натисни десния бутон Download ZIP. 
 
-Навигирай там където е Mirror-master.zip Разархивирай (Extract All) и навигирай в папка Mirror-master. Разархивирай (Extract All) ogledalo.zip. Влез в папката ogledalo. Натисни два пъти върху programa.bat Програмата е на кирилица.
+Навигирай там където е Mirror-master.zip Разархивирай (Extract All) и навигирай в папка Mirror-master. Разархивирай (Extract All) ogledalo.zip. Влез в папката ogledalo. Натисни два пъти върху initial.bat Програмата е на кирилица.
